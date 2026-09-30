@@ -1,0 +1,15 @@
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/exception/GlobalExceptionHandler.java
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/dto/PageRequest.java
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/mapper/UserMapper.java
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/entity/User.java
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/dto/UserUpdateRequest.java
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/common/ResultCode.java
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/controller/UserQueryRequest.java
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/UserApplication.java
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/controller/UserController.java
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/common/Response.java
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/service/impl/UserServiceImpl.java
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/exception/BusinessException.java
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/dto/UserCreateRequest.java
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/common/PageResult.java
+/Users/panjianfeng/Desktop/中电文档/ai项目/ai_project1/src/main/java/com/ai/user/service/UserService.java

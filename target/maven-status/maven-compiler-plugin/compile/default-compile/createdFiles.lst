@@ -1,0 +1,15 @@
+com/ai/user/common/Response.class
+com/ai/user/dto/UserUpdateRequest.class
+com/ai/user/entity/User.class
+com/ai/user/controller/UserQueryRequest.class
+com/ai/user/dto/PageRequest.class
+com/ai/user/UserApplication.class
+com/ai/user/common/ResultCode.class
+com/ai/user/service/impl/UserServiceImpl.class
+com/ai/user/service/UserService.class
+com/ai/user/dto/UserCreateRequest.class
+com/ai/user/mapper/UserMapper.class
+com/ai/user/controller/UserController.class
+com/ai/user/exception/BusinessException.class
+com/ai/user/exception/GlobalExceptionHandler.class
+com/ai/user/common/PageResult.class
